@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.digit {
+    width: 100px;
+    height: 120px;
+    background-color: black;
+    color: white;
+    font-family: 'digital-font';
+    box-shadow: 0 0 10px grey;
+}
+.backgroundApp {
+    background-color: black;
+
+}
